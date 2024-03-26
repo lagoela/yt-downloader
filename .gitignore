@@ -1,6 +1,7 @@
 server/videos
 server/venv
-client/node_modules
-client/.next
-client/next-env.d.ts
-client/.env
+clientside/node_modules
+clientside/.next
+clientside/.next/**
+clientside/next-env.d.ts
+clientside/.env
