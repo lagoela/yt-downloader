@@ -3,3 +3,4 @@ server/venv
 client/node_modules
 client/.next
 client/next-env.d.ts
+client/.env
